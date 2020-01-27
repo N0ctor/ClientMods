@@ -1,0 +1,4 @@
+Developed and Instructed by Micah
+
+1. Create your Settings.java, this class is what we will be using to read and write to our settings files. It also creates and manages
+the development of the files, as if they are created or not. This part is very important. Find the file here 
