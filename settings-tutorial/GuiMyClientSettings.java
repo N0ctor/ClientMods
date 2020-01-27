@@ -29,6 +29,7 @@ public class GuiMyClientSettings extends GuiScreen {
 		if (button.id == 2) {
 			swapValues(SettingsConf.FPS, ModInstances.getModfps());
 		}
+		this.updateScreen()
 	}
 	@Override
 	public void drawScreen(int mouseX, int mouseY, float partialTicks) {
