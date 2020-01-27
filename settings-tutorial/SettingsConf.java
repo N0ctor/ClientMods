@@ -5,7 +5,7 @@ import java.io.File;
 public enum SettingsConf {
 	
 	XYZ(true, "Coordinates"),
-  FPS(true, "Frames Per Second");
+        FPS(true, "Frames Per Second");
 	
 	private boolean value;
 	private String disString;
