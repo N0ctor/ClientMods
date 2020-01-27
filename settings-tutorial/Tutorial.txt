@@ -44,7 +44,7 @@ Now we can create a simple class using this button.
  
 So that is it! I hope that this works for you, I spent a lot of time on this and I hope it works well as it works amazing for me. I am offering support so if you need help feel free to message me on discord @ Meecka#7099
 
-################################################ Saving the screen poition of a mod fix ###########################################
+################################################ Saving the screen poition of a mod to the settings file ###############################
 
 This is something I ran into while making this so if you need a fix its quite simple.
 
